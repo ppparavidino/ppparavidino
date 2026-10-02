@@ -11,7 +11,7 @@ Meu diferencial é a capacidade de entregar soluções completas (full stack) co
 ### Minhas principais habilidades:
 
 * Python (FastAPI, automação, scripts)
-* Node.js + Express + TypeScript
+* Node.js + TypeScript
 * React + TypeScript + Tailwind CSS
 * SQL Server + Prisma
 * PHP
